@@ -1,0 +1,99 @@
+body
+{
+  background-image:url(IMG/Road.jpg);
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  position: relative;
+  text-align:center;
+}
+
+
+
+ li { 
+    float:left;
+    list-style-type:none;
+    font-size: 20px;
+    color:#070707;
+    background-color: none;
+    padding;5px;
+    margin-top: 2%;
+    margin-left:15%; 
+    margin-bottom: 2% 
+    
+    
+}
+ul li:hover {
+    background-color: #a8d6d6;
+    color:#030303;
+    box-shadow: 5px 10px rgba(255, 255, 255, 0.03);
+  
+}
+ul
+{
+    background-color:none;
+    width:100%;
+    list-style-type: none;
+
+}
+
+div {
+    border:px solid blue;
+    box-sizing:border-box;
+    float: left;
+}
+#main 
+{
+    width:75%;
+    height:75%;
+    background-color: ;
+    margin-left:13%
+        
+    
+    
+}
+
+#left {
+    width:50%;
+    height:50%;
+    background-color: ;
+    background-image:url(IMG/HondaLogo.png);
+    background-size:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#right {
+    width:50%;
+    height:50%;
+    background-color: ;
+    background-image:url(IMG/HarleyDavidsonLogo.png);
+    background-size:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+    
+    
+}
+
+#left2 {
+     width:50%;
+    height:50%;
+    background-color: ;
+    background-image:url(IMG/YamahaLogo.png);
+   background-size:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+#right2 {
+     width:50%;
+    height:50%;
+    
+    background-image:url(IMG/Kawasakilogo.png);
+    background-size:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
